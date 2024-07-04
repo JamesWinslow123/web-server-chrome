@@ -111,9 +111,6 @@ The default behavior right now is very simple. You choose a directory
 to serve static content. It is now able to stream large files and
 handle range requests. It also sets mime types correctly.
 
-Here is an example project based on it:
-https://chrome.google.com/webstore/detail/flv-player/dhogabmliblgpadclikpkjfnnipeebjm
-
 ---
 
 MIT license
